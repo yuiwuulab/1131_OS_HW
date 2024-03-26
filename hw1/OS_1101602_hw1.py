@@ -1,6 +1,6 @@
 ## 多執行緒程式碼
 
-# - thread 1 (print_nubmers())
+# - thread 1 (print_sleep())
 #   - 倒數 10
 #   - sleep(0.5)
 # - thread 2 (print_num()) 
